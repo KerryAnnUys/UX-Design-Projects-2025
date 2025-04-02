@@ -1,4 +1,4 @@
-# UX-Design-Projects-2025
+# UX-Design-Projects
 
 Project 2: https://www.figma.com/design/LQNssvnmVXPFjLIo5Vj9vK/Block-2-Assignment-2?t=NKCmvicezbI2s3ET-1
 
